@@ -1,6 +1,7 @@
-# logzalgo
+# l̪͇̫o͙̩̟̔ͧ̕g͓z͖̻̹̯ͦͅa̞͕̭͈̥l̯̰̳̼g̦̮̖͠ö̦̘̙̞̲͎͇́͋
 
-A [`logrus`](https://github.com/Sirupsen/logrus) formatter, much better than any
-other past, present or future formatter.
+A͚̙͔̹͑ [`̘͇̀ḻ̮̞̙́o̦̫̩̝̯̽g̞͓͇r̠̠͓͙̔u͚̖̎s̘̫̖`](https://github.com/Sirupsen/logrus) ̖̩͙̓f̱̻͇o̯͕ͪ͘ṟ͙̦m͇̱̲̔͘a̗͎̙̺ṯ̘̪̭̋t̳̮̬̅̏e͙̟r̞̲̹͇,͍̗̥ ͙̥̦m̺̗̣̮̅ũ̟͓̬c̙̦̲͍h̘̘ͬ͆ ̮͇̬̮ḃ̭̤͍̫e̮t̥̪̙t̬̼̦͖̃ͨe̼͍̙ͩr̲̼̠ͥͅ ̬̦͙̃t̘̳͎͎ͨh̭̥̻ͨa̮͕̳̠n̯̬͉̚ ̞͙ͧa̼͈̜n̞̘y̺͇ͧͅͅ ̙̯̟̫o͈̼͖ͥt̰̩̘ͯh̞̆ͅě̜̮͙r̪͙͈ ̞͓͂p̘͓̹͒a̺̫s͇̳̩̯t̺̜̦̭,̱̹̠̟ ̰̬̿̑͡p̯͖͍̲r̹͙͚̹e͉͙ͣ́ͅs̗͉̳̝e̬ṉ̜̥̫t̥̱ͦͅ ̘̞͚̦o̤̼̤̬̜ȓ̖̘ ͎̥̗̩̰f̢̰̹̳͈̠u̦̣̬t͖̠̭̞ͮu̵̯̻̟͎ṟ͚̮̙̾̿e̬̳ ̖̗͉̺̮ͧf͈̘̘̭͋o͉͇͋r͍̼̓m̻̼͖̰ͪa͉̞̦t̟͍̄t̬͈̝̗e͎͚̖ͬr̭̼̩̗̒́.̖͓͎
+̘̙̩
 
 ![screen shot 2014-03-12 at 14 03 28](https://f.cloud.github.com/assets/1189716/2401008/a7abdc8a-aa10-11e3-86cf-3c346ef9d1d0.png)
+
