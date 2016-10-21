@@ -3,6 +3,7 @@ package logzalgo
 import (
 	"bytes"
 	"fmt"
+
 	"github.com/Sirupsen/logrus"
 	"github.com/kortschak/zalgo"
 )
@@ -26,10 +27,11 @@ func NewZalgoFormatterrrrrr() *ZalgoFormatter {
 	pain := bytes.NewBuffer(nil)
 	z := zalgo.NewCorrupter(pain)
 
-	z.Zalgo = func(n int, z *zalgo.Corrupter) {
+	z.Zalgo = func(n int, r rune, z *zalgo.Corrupter) bool {
 		z.Up += 0.1
 		z.Middle += complex(0.01, 0.01)
 		z.Down += complex(real(z.Down)*0.1, 0)
+		return false
 	}
 
 	return &ZalgoFormatter{
