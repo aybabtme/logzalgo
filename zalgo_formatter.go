@@ -49,12 +49,12 @@ func (zal *ZalgoFormatter) Format(entry *logrus.Entry) ([]byte, error) {
 	zal.z.Middle = complex(0, 0.2)
 	zal.z.Down = complex(0.001, 0.3)
 
-	victimsWish := entry.Data["msg"].(string)
+	victimsWish := entry.Message
 
 	_, _ = fmt.Fprint(zal.z, victimsWish)
 
 	victimsReality := zal.pain.String()
 
-	entry.Data["msg"] = victimsReality
+	entry.Message = victimsReality
 	return zal.victim.Format(entry)
 }
